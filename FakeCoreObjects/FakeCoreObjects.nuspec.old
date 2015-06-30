@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>FakeCoreObjects</id>
+    <version>1.3.0</version>
+    <authors>Medidata Solutions</authors>
+    <owners>Medidata Solutions</owners>
+    <iconUrl>http://www.trademarkia.com/logo-images/medidata-solutions/medidata-rave-78873843.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is the dll for the external facing version of Medidata.Core.Objects</description>
+    <tags>Medidata Core Objects Rave</tags>
+  </metadata>
+</package>

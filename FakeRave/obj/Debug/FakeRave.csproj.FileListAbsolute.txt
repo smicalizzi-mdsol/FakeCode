@@ -1,0 +1,9 @@
+c:\users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeRave\bin\Debug\FakeRave.exe
+c:\users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeRave\bin\Debug\FakeRave.pdb
+c:\users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeRave\bin\Debug\FakeCoreObjects.pdb
+c:\users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeRave\obj\Debug\FakeRave.csprojResolveAssemblyReference.cache
+c:\users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeRave\obj\Debug\FakeRave.exe
+c:\users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeRave\obj\Debug\FakeRave.pdb
+c:\users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeRave\bin\Debug\FakeCoreObjects.dll
+c:\users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeRave\bin\Debug\FakeCoreCommon.dll
+c:\users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeRave\bin\Debug\FakeCoreCommon.pdb

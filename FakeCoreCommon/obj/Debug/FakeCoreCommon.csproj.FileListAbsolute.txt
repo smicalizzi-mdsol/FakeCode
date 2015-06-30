@@ -1,0 +1,4 @@
+c:\Users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeCoreCommon\bin\Debug\FakeCoreCommon.dll
+c:\Users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeCoreCommon\bin\Debug\FakeCoreCommon.pdb
+c:\Users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeCoreCommon\obj\Debug\FakeCoreCommon.dll
+c:\Users\smicalizzi\documents\visual studio 2013\Projects\FakeRave\FakeCoreCommon\obj\Debug\FakeCoreCommon.pdb
