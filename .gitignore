@@ -1,0 +1,257 @@
+/*/obj/Debug/*
+/*/bin/Debug/*
+/MySql.Data/Provider/bin/Debug/*
+/MySql.Data/Provider/obj/Debug/*
+/*/obj/Release/*
+/*/bin/Release/*
+/MySql.Data/Provider/bin/Debug/Release/*
+/MySql.Data/Provider/obj/Debug/Release/*
+/*/bin/
+/*/bin/Debug/
+/*/bin/Release/
+/*/obj/Debug/TempPE
+/*/obj/Debug/
+/*/obj/Release/TempPE
+/*/obj/Release
+*.user
+*.suo
+*.pdb
+/Medidata.Cloud.Edc/connections.config
+
+/Medidata.Core/Medidata.Core.Service/log4net.config
+/Medidata.Core/Medidata.Core.Service/appsettings.config
+/Medidata.Core/Medidata.Core.Service/Medidata.Core.Service.exe.config
+/Medidata.Core/Medidata.Core.Service/connections.config
+/Medidata.Core/Medidata.Core.Service/streamingSettings.config
+/MedidataRAVE/Log4Net.config
+/MedidataRAVE/Log4Net.config.template
+/MedidataRAVE/appsettings.config
+/MedidataRAVE/connections.config
+/MedidataRAVE/reportsettings.config
+/MedidataRAVE/streamingSettings.config
+/MedidataRAVE/web.config
+/MedidataRAVE/DataStreamingSettings.config
+/MedidataRAVE/rave_private.config
+/MedidataRAVE/rave_public.pem.txt
+
+/MedidataRAVE/Log/
+
+/Medidata.Core/*/bin/
+/Medidata.Core/*/bin/Debug/
+/Medidata.Core/*/bin/Release/
+
+/Medidata.Core/*/obj/
+/Medidata.Core/*/obj/Debug/
+/Medidata.Core/*/obj/Release/
+
+/MySql.Data/Provider/bin/Debug/
+/MySql.Data/Provider/bin/Release/
+/MySql.Data/Provider/bin/
+
+/MySql.Data/Provider/obj/Debug/TempPE
+/MySql.Data/Provider/obj/Debug/
+
+/MySql.Data/Provider/obj/Release/TempPE
+/MySql.Data/Provider/obj/Release
+
+
+/MySql.Data/Provider/obj/x86/Debug/TempPE/*
+/MySql.Data/Provider/obj/x86/Debug/*
+
+/MySql.Data/Provider/obj/x86/Debug/TempPE/
+/MySql.Data/Provider/obj/x86/Debug/
+/log4net/log4net.xml
+/MySql.Data/Provider/doc.xml
+/Medidata 5 RAVE Database Project - Viper/Medidata 5 RAVE Database Project- AM2.dbp
+/Medidata 5 RAVE Database Project/Change Scripts/Daily Changes/DailyChangeScript.xml.bak
+/Medidata 5 RAVE Database Project/sql/debug/
+/Medidata 5 RAVE Database Project/Medidata 5 RAVE Database Project - Release.dbp
+/MedidataRAVE/Img/Thumbs.db
+/MedidataRAVE/Img/vssver2.scc
+/Medidata 5 RAVE Database Project/Stored Procedures/TimeStamps/vssver2.scc
+
+/Medidata.RaveWebServices/App/Medidata.RaveWebServices.Web/Web.config
+/Medidata.RaveWebServices/App/Medidata.RaveWebServices.Web/dev.cfg.xml
+Medidata.Core/Medidata.Core.Service/dev.cfg.xml
+
+
+/Medidata.Core/Medidata.Core.Common/Medidata.Core.Common.xml
+/Medidata.Core/Medidata.Core.Objects/Medidata.Core.Objects.xml
+/Medidata.Core/Medidata.Core.Service/Medidata.Core.Service.xml
+
+/Medidata.Data/Medidata.Data.xml
+/Medidata.Instrumentation/Medidata.Instrumentation.xml
+/Medidata.PdfGenerator/Medidata.PdfGenerator.xml
+/Medidata.Rave.Authentication/Medidata.Rave.Authentication.xml
+/Medidata.ThreadGovernor/Medidata.ThreadGovernor.xml
+/Medidata.Utilities/Medidata.Utilities.xml
+/Medidata.Web.CRF.InputControls/Medidata.Web.CRF.InputControls.xml
+/Medidata.Web.CRF/Medidata.Web.CRF.xml
+/Medidata.Web.PopupWin/Medidata.Web.PopupWin.xml
+/Medidata.Web.Utilities/Medidata.Web.Utilities.xml
+
+/Medidata.RaveWebServices/App/*/bin/
+/Medidata.RaveWebServices/App/*/obj/
+/Medidata.RaveWebServices/App/Database/sql/debug/
+
+/Medidata.RaveWebServices.Outbound/*/bin/
+/Medidata.RaveWebServices.Outbound/*/bin/Debug/
+
+/Medidata.RaveWebServices.Outbound/*/obj/
+/Medidata.RaveWebServices.Outbound/*/obj/Debug/
+/Medidata.Rave.UAT/Cucumber features/columbo/
+
+/CustomFunction Development Utility/5.6.4/bin/
+/CustomFunction Development Utility/5.6.4/obj/ 
+/CustomFunction Development Utility/5.6.4/Medidata.CustomFunctions.Debug/UserProject/bin/*
+/CustomFunction Development Utility/5.6.4/Medidata.CustomFunctions.Debug/obj/*
+/CustomFunction Development Utility/Medidata.Windows.Forms/obj/*
+
+/MedidataRAVE/Log4Net.config
+/TripMonitorWS/Bin/TripMonitor.dll
+/bin/Medidata.Windows.Forms.dll
+/Medidata.Core/Medidata.Core.Service/Log4Net.config
+/Medidata 5 RAVE Database Project/Medidata 5 RAVE Database Project.dbmdl
+/_ReSharper.Lucy
+/CustomFunction Development Utility/Medidata.Windows.Forms/bin/Release/Medidata.Windows.Forms.dll
+/TestResults/
+Metrics.typemock.Lucy
+lint.db
+/Medidata.Rave.UAT/Cucumber features/.idea
+/Medidata.Rave.UAT/rave_config.yml
+
+
+/Medidata.Rave.UAT/Output_Files
+/TestResults/
+Metrics.typemock.Lucy
+/MedidataRAVE/AddOns/*.dll
+Local.testsettings
+TraceAndTestImpact.testsettings
+Lucy.vsmdi
+/Medidata.Rave.UAT/Output_Files
+/Medidata.Web.Api/Medidata.Web.Api.sln
+/Medidata.Web.Api/UpgradeLog.XML
+/Medidata.Web.Api/_UpgradeReport_Files/UpgradeReport.css
+/Medidata.Web.Api/_UpgradeReport_Files/UpgradeReport.xslt
+/Medidata.Web.Api/_UpgradeReport_Files/UpgradeReport_Minus.gif
+/Medidata.Web.Api/_UpgradeReport_Files/UpgradeReport_Plus.gif
+/Medidata.Web.Api/web.Debug.config
+/Medidata.Web.Api/web.Release.config
+/Medidata.Web.Api/web.config
+/StreamingReport/StreamingReport.sln
+/StreamingReport/UpgradeLog.XML
+/StreamingReport/_UpgradeReport_Files/UpgradeReport.css
+/StreamingReport/_UpgradeReport_Files/UpgradeReport.xslt
+/StreamingReport/_UpgradeReport_Files/UpgradeReport_Minus.gif
+/StreamingReport/_UpgradeReport_Files/UpgradeReport_Plus.gif
+/ExternalAssemblies/PostSharp.xml
+Medidata.Web.Api/Medidata.Web.Api.sln
+/Medidata.Web.Api/UpgradeLog.XML
+/Medidata.Web.Api/_UpgradeReport_Files/UpgradeReport.css
+/Medidata.Web.Api/_UpgradeReport_Files/UpgradeReport.xslt
+/Medidata.Web.Api/_UpgradeReport_Files/UpgradeReport_Minus.gif
+/Medidata.Web.Api/_UpgradeReport_Files/UpgradeReport_Plus.gif
+/Medidata.Web.Api/web.Debug.config
+/Medidata.Web.Api/web.Release.config
+/Medidata.Web.Api/web.config
+/StreamingReport/StreamingReport.sln
+/StreamingReport/UpgradeLog.XML
+/StreamingReport/_UpgradeReport_Files/UpgradeReport.css
+/StreamingReport/_UpgradeReport_Files/UpgradeReport.xslt
+/StreamingReport/_UpgradeReport_Files/UpgradeReport_Minus.gif
+/StreamingReport/_UpgradeReport_Files/UpgradeReport_Plus.gif
+/Medidata.Core.Objects.Test/App.config
+/medidata.rave.uat/cucumber capybara features/capybaraproject/.idea
+/medidata.rave.uat/cucumber capybara features/capybaraproject/.yardoc
+/medidata.rave.uat/cucumber capybara features/capybaraproject/columbo
+/Medidata 5 RAVE Database Project/Rave_Viper_Lucy_Merged_DB_Scripts/Developer Helper scripts/logs/*.log
+
+/Medidata.TemplateEngine/_ReSharper.Medidata.TemplateEngine
+/Medidata.Installation/Rave/Packages/_output
+/Medidata.Installation/Rave/PackageBuildBatch/run_Build_MSI.bat
+/Medidata.Installation/Rave/PackageBuildBatch/ccnet.config
+/Medidata.Installation/Rave/Packages/MedidataCoreService/String1033.txt
+/Medidata.Installation/Rave/Packages/RaveCrystalViewer/String1033.txt
+/Medidata.Installation/Rave/Packages/RaveDatabase/RaveDatabase/String1033.txt
+/Medidata.Installation/Rave/Packages/RaveWeb/String1033.txt
+
+Crystal Reports Backup Files/
+_ReSharper.Medidata.Cloud.Edc/
+.idea/
+/packages/
+Backup/
+Backup1/
+_UpgradeReport_Files/
+Medidata.Cloud.Edc/Img/Thumbs.db
+Medidata.Cloud.Edc/Medidata.snk
+Medidata.Cloud.Edc/iMedidata_public.txt
+Medidata.Cloud.Edc/iMedidata_public.xml
+MedidataRAVE/iMedidata_public.txt
+Medidata.Cloud.Edc/appsettings.config
+Medidata.Cloud.Edc/connectionStrings.config
+_ReSharper.RavePlugins/_ReSharper.RaveWeb/plugins/Medidata.Cloud.Edc/connectionstrings.debug.xml
+Medidata.Cloud.Edc/studygroups.debug.xml
+Medidata.Cloud.Edc/connectionstrings.debug.xml
+Medidata.Cloud.Edc/rave_imedidata_api_private_key.xml
+
+PrecompiledWeb/*
+TripMonitor/Obj/*
+
+/Medidata.Installation/Rave/Packages/*/String1033.txt
+
+/Medidata.Installation/Rave/Packages/*/Script\ Files/*.dbg
+/Medidata.Installation/Rave/Packages/*/Script\ Files/*.inx
+/Medidata.Installation/Rave/Packages/*/Script\ Files/*.obs
+/Medidata.Installation/Rave/Packages/*/Script\ Files/*.isr
+/Medidata.Installation/Rave/Packages/*/Script\ Files/*.map
+/Medidata.Installation/Rave/Packages/*/Script\ Files/*.brk
+
+/Medidata.Installation/Rave/Packages/*/*/String1033.txt
+/Medidata.Installation/Rave/Packages/*/*/Script\ Files/*.dbg
+/Medidata.Installation/Rave/Packages/*/*/Script\ Files/*.inx
+/Medidata.Installation/Rave/Packages/*/*/Script\ Files/*.obs
+/Medidata.Installation/Rave/Packages/*/*/Script\ Files/*.isr
+/Medidata.Installation/Rave/Packages/*/*/Script\ Files/*.map
+/Medidata.Installation/Rave/Packages/*/*/Script\ Files/*.brk
+
+/Medidata.Installation/Rave/PackageBuildBatch/log.*.txt
+/packages
+
+/Medidata.Installation/EnvironmentSetup/core_service_setup.ps1
+/Medidata.Installation/EnvironmentSetup/medidatarave_setup.ps1
+/Medidata.Installation/EnvironmentSetup/reporting_setup.ps1
+/Medidata.Installation/EnvironmentSetup/riss_setup.ps1
+/Medidata.Installation/EnvironmentSetup/rws_setup.ps1
+/Medidata.Installation/EnvironmentSetup/tripmonitorWS_setup.ps1
+/Medidata.Installation/EnvironmentSetup/db_setup.ps1
+/Medidata 5 RAVE Database Project/Rave_Viper_Lucy_Merged_DB_Scripts/DatabasePackage.xml
+/Medidata 5 RAVE Database Project/sql
+
+/Medidata.Rave.Integration/*/bin/
+/Medidata.Rave.Integration/*/obj/
+
+/Medidata.Rave.Integration/*/appsettings.config
+/Medidata.Rave.Integration/*/connections.config
+/Medidata.Rave.Integration/*/Log4Net.config
+/Medidata.TestHelper/obj/
+
+/Medidata.Logging/Log4Net.config
+/Medidata.Logging/Log4NetLogger/Log4Net.config
+
+/RaveCrystalViewer/Log4Net.config
+/RaveCrystalViewer/Log4Net.config.template
+/RaveCrystalViewer/Web.config
+/RaveCrystalViewer/DataStreamingSettings.config
+/Medidata.Rave.Integration/Medidata.Rave.Integration.Service/awsConfiguration.xml
+
+/config backups/
+Medidata.Rave.UAT/rave_config_yml
+Medidata.RaveWebServices/App/Medidata.RaveWebServices.Web/code-trace.txt
+MedidataRAVE/Modules/Architect/RaveDraf.xls
+scripts/GetRaveInternalVersion.bat
+scripts/SetEnvironment.ps1
+/*.user
+/*/*.user
+/MedidataConfigLoader/connections.config
+/MedidataConfigLoader/App.config
+/MedidataConfigLoader/Log4Net.config
